@@ -1,0 +1,8 @@
+{
+  "name": "NorthLink",
+  "description": "A professional bridge connecting Norwegian companies with skilled Spanish talent. Features job listings, cultural guides, and an AI-powered relocation assistant.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
